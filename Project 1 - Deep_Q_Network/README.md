@@ -39,7 +39,7 @@ The below is how we start the environment of this Deep_Q_network project.
 
 _env = UnityEnvironment(file_name="Banana_Windows_x86_64/Banana.exe")_
 
-### sessions in the training phases.
+### Sessions in the training phases.
 
 We run several training sessions in according  to the variable _numb_of_trains_.
 For each training session, the obtained weights are saved into the file such as _weights_0.trn_ and  _weights_1.trn_
@@ -49,7 +49,7 @@ For each training session, we run the *Deep-Q-Network* procedure **dqn** to cons
   agent = **Agent**(state_size=37, action_size=4, seed=1, fc1_units=fc1_nodes, fc2_units=fc2_nodes)       
   scores, episodes = **dqn**(n_episodes = 2000, eps_start = epsilon_start, train_numb=i)  
   
-### employed parameters in the training phases.
+### Employed parameters in the training phases.
 
 We utilized three paremters to train and find the most effective model :  _fc1_units_, _fc2_units_,  _eps_start_.
 At the end of each session these parameters together with the episode number (at which the training is finished) 
