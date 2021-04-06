@@ -136,8 +136,7 @@ Episode: 594, elapsed: 0:11:51.450521, Avg.Score: 13.06,  score 17.0, How many s
 
  fc1_units:  112 , fc2_units:  96
 train_numb:  4 eps_start:  0.975
-Episode: 29, elapsed: 0:00:33.691869, Avg.Score: 0.24,  score 0.0, How many scores >= 13: 0, eps.: 0.878 
- ![im6_80x88_633ep][image6]    
+Episode: 29, elapsed: 0:00:33.691869, Avg.Score: 0.24,  score 0.0, How many scores >= 13: 0, eps.: 0.878  
 
 
 [Most of the code are accredited to Udacity's DQN cod]
