@@ -3,7 +3,7 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif 
 "Trained Agent"
 
-#[image2]: layers_96x88_585ep.png  "im2_96x88_585ep"
+
 [image2]: layers_48x32_579ep.png  "im3_48x32_579ep"
 [image3]: layers_80x88_572ep.png  "im4_80x88_572ep"
 [image4]: layers_64x56_590ep.png  "im5_64x56_590ep"
