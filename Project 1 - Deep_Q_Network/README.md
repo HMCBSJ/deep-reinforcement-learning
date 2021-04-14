@@ -34,13 +34,12 @@ Download the environment from one of the links below. You need only select the e
   * Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
   * Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
   * Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+
 (For Windows users) Check out this link if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system.
-
 (For AWS) If you'd like to train the agent on AWS (and have not enabled a virtual screen), then please use this link to obtain the environment.
-
 Place the file in the DRLND GitHub repository, in the p1_navigation/ folder, and unzip (or decompress) the file.
 
-Instructions
+### Instructions
 Follow the instructions in Navigation.ipynb to get started with training your own agent!
 
 (Optional) Challenge: Learning from Pixels
