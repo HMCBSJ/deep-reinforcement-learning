@@ -170,4 +170,4 @@ train_numb:  4 eps_start:  0.975
 Episode: 29, elapsed: 0:00:33.691869, Avg.Score: 0.24,  score 0.0, How many scores >= 13: 0, eps.: 0.878  
 
 
-[Most of the code are accredited to Udacity's DQN cod]
+[Most of the code are accredited to Udacity's DQN cod](https://github.com/udacity/deep-reinforcement-learning#dependencies)
