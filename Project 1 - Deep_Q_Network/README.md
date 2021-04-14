@@ -54,6 +54,7 @@ You need only select the environment that matches your operating system:
 * Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana.app.zip)
 * Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Windows_x86.zip)
 * Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Windows_x86_64.zip)
+
 Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file. Next, open Navigation_Pixels.ipynb and follow the instructions to learn how to use the Python API to control the agent.
 
 (For AWS) If you'd like to train the agent on AWS, you must follow the instructions to set up X Server, and then download the environment for the Linux operating system above.
