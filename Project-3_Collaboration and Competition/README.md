@@ -1,8 +1,8 @@
 
 [//]: # (Image References)
-[image1]:images/Tennis.gif  "Trained Agent"
-[image2]:images/plot_1600episodes.png "Plot_1600"
-[image3]:images/plot_1700episodes.png "Plot_1700"
+[image1]:Tennis.gif  "Trained Agent"
+[image2]:plot_1600episodes.png "Plot_3000"
+
 
 # Project 3: Collaboration and Competition
 
@@ -95,11 +95,9 @@ You need at least the following three packages:
         
 ### Train History
 
-1. At **1600 episode** the **Average Score** is achived to **+1.14**.  
-![Plot_1600][image2]
+1. At **3000 episode** the **Average Score** is achived to **+1.14**.  
+![Plot_3000][image2]
 
-2. At **1700 episode** the **Average Score** is achived to **+1.42**.   
-![Plot_1700][image3]
 
         
 ### Weights of the Trained Agent
