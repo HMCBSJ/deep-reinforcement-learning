@@ -85,7 +85,7 @@ You need at least the following three packages:
 
    [6]  Define and run the main function _train_ :
    
-     scores_total, scores_global = train(maddpg, env, dir_chkpoints, n_episodes=1700)  
+     scores_total, scores_global = train(maddpg, env, dir_chkpoints, n_episodes=3000)  
       
    [7]  Print graph of scores_total (blue bars) over all episodes, and  scores_global  
         (the line 'Avg on 100 episodes' - orange points)    
