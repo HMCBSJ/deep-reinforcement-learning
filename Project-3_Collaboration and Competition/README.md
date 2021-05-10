@@ -8,7 +8,7 @@
 
 ### Introduction
 
-For this project, we work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment, where two agents control rackets to bounce ball over a net.     
+In this project, we work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment, where two agents control rackets to bounce ball over a net.     
 If an agent hits a ball over net, the agent receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball   
 out of bounds, the agent receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.    
 The observation space is 24-dimensional consisting of 8 variables corresponding to the position and velocity  
@@ -106,7 +106,7 @@ You need at least the following three packages:
   
       checkpoint_actor_0.pth,  checkpoint_actor_1.pth,  checkpoint_critic_0.pth, checkpoint_critic_1.pth  
               
-  into the directory 'dir_chk_1700d_episodes'
+  stored in the directory 'dir_chk_3000d_episodes'
 
      
 ### Credit
