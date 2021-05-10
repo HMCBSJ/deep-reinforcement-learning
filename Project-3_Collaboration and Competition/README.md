@@ -8,9 +8,9 @@
 
 ### Introduction
 
-In this project, we work with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment, where two agents control rackets to bounce ball over a net.     
+In this project, we deal with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment, where two agents control rackets to bounce ball over a net.     
 If an agent hits a ball over net, the agent receives a reward of +0.1. If an agent lets a ball hit the ground or hits the ball   
-out of bounds, the agent receives a reward of -0.01. Thus, the goal of each agent is to keep the ball in play.    
+out of bounds, the agent receives a reward of -0.01. Therefore, the goal of each agent is to maintain the ball in play.    
 The observation space is 24-dimensional consisting of 8 variables corresponding to the position and velocity  
 of the ball and racket. Each agent receives its own, local observation. Two continuous actions are available, corresponding 
 to movement toward (or away from) the net, and jumping. The accompanying research paper can be found [here](https://arxiv.org/pdf/1706.02275.pdf).
@@ -35,7 +35,7 @@ of single agent RL by independently training the two agents does not work very w
 are independently updating their policies as learning progresses. And this causes the environment to appear 
 non-stationary from the viewpoint of any one agent. 
 
-### Prepare environment on the local machine
+### Prepare the environment on the local machine
 
 You need at least the following three packages:
 
