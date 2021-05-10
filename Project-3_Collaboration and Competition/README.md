@@ -108,35 +108,6 @@ You need at least the following three packages:
               
   into the directory 'dir_chk_1700d_episodes'
 
-### Watch the Trained Agent
-
- Run the notebook _WatchAgent.ipynb_
- 
- [1]  Start the Environment for Trained Agent  - Init Red and Blue Agents 
- [3]  Play Before Training    
-        
-      The result score (max over agents) almost for all games: 0.0  
-        
- [2]  Load weights and Play: Prepare function _load_ and _play_   
- 
-      def load(dir) # input - directory containing checkpoint files
-      play(agent, env, games) # agent is multi-agent ddpg     
-            
- [4] Play after training in 1600 games 
- 
-      Game: 1, partial score: [1, 0],  Score #0: 2.60, Score #1: 2.60, Timesteps: 1000     
-      Game: 2, partial score: [2, 0],  Score #0: 2.70, Score #1: 2.60, Timesteps: 1000     
-      Game: 3, partial score: [3, 0],  Score #0: 0.20, Score #1: 0.19, Timesteps: 104     
-      Game: 4, partial score: [3, 1],  Score #0: 0.09, Score #1: 0.10, Timesteps: 50     
-      Game: 5, partial score: [4, 1],  Score #0: 2.60, Score #1: 2.60, Timesteps: 1000    
-      
- [5] Play after Training in 1700 games   
- 
-     Game: 1, partial score: [1, 0],  Score #0: 2.70, Score #1: 2.60, Timesteps: 1000 
-     Game: 2, partial score: [2, 0],  Score #0: 2.60, Score #1: 2.60, Timesteps: 1000 
-     Game: 3, partial score: [3, 0],  Score #0: 0.10, Score #1: 0.09, Timesteps: 37 
-     Game: 4, partial score: [3, 1],  Score #0: -0.01, Score #1: 0.10, Timesteps: 30 
-     Game: 5, partial score: [4, 1],  Score #0: 2.60, Score #1: 2.60, Timesteps: 1000 
      
 ### Credit
 
