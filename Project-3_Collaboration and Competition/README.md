@@ -1,7 +1,7 @@
 
 [//]: # (Image References)
 [image1]:Tennis.gif  "Trained Agent"
-[image2]:plot_1600episodes.png "Plot_3000"
+[image2]:plot_3000episodes.png "Plot_3000"
 
 
 # Project 3: Collaboration and Competition
